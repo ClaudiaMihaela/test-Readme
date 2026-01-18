@@ -3,11 +3,11 @@
 Acest proiect implementează un cadru de simulare și analiză pentru adoptarea strategiilor în sistemele de **Federated Learning (FL)**. Codul utilizează tehnici de rețele neurale pentru învățarea politicilor (*Policy Learning*) și algoritmi din teoria jocurilor (**Fictitious Play**) pentru a prezice echilibrul Nash în diferite scenarii de adoptare a tehnologiei.
 
 ## 📋 Cuprins
-1. [Descriere Generală](#descriere-generală)
-2. [Scenarii Analizate](#scenarii-analizate)
-3. [Componente Software](#componente-software)
-4. [Instalare și Utilizare](#instalare-și-utilizare)
-5. [Interpretarea Rezultatelor](#interpretarea-rezultatelor)
+1. Descriere Generală
+2. Scenarii Analizate
+3. Componente Software
+4. Instalare și Utilizare
+5. Interpretarea Rezultatelor
 
 ---
 
